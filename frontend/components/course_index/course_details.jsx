@@ -163,7 +163,7 @@ class CourseDetails extends React.Component {
                 <div className="index-card-text">
                     <div className="index-card-title">{this.props.course.title}</div>
                     <div className="index-card-ratting"><span className="index-rating-span">{this.renderRating()}</span><span className="index-rating-span">{this.props.course.rating}</span><span className="index-rating-span" style={{ color: "#686f7a" }}>({this.props.course.rating_count})</span></div>
-                    <div className="index-card-price">${this.renderPrice()}</div>
+                    <div className="index-card-price">₹ {this.renderPrice()}</div>
                 </div>
             </Link>
         )

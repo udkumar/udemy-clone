@@ -172,7 +172,7 @@ class CourseHeading extends React.Component {
                                 <img style={{ maxWidth:"335px"}}src={this.props.course.picture} />
                                     <div className="play-circle" > <FontAwesomeIcon icon={faPlayCircle} className="play-circle-icon"/></div>
                                 </div>
-                                <div style={{ textAlign: "center" }}>${this.renderPrice()}</div>
+                                <div style={{ textAlign: "center" }}>₹ {this.renderPrice()}</div>
                             <button className="back-home-button" onClick={() => this.props.history.push("/")}>Back To Home</button>  
                             </div>
                         </div>
