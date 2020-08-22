@@ -1,11 +1,11 @@
-# YOU-DEMY
-<a href="https://udemy-clone-project.herokuapp.com/#/">Live link</a>
+# PairClasses
+<a href="#">Live link</a>
 
-## What is YOU-demy?
+## What is PairClasses?
 
-YOU-demy is a web application for learning inspired by Udemy. YOU-demy is intended to be a source of education where the instructors are self-motivated and passionate for the courses they create. Courses are created by those knowledgeable in a subject, and others enroll in the class if they are interested in the subject. This project was built in ~60 hours, but more features will be added as time allows.
+PairClasses is a web application for learning. PairClasses is intended to be a source of education where the instructors are self-motivated and passionate for the courses they create. Courses are created by those knowledgeable in a subject, and others enroll in the class if they are interested in the subject. This project was built in ~60 hours, but more features will be added as time allows.
 
-## YOU-demy Features
+## PairClasses Features
 
  * Courses
    * Each course can be individually viewed to see additional data and course information.
@@ -29,7 +29,7 @@ YOU-demy is a web application for learning inspired by Udemy. YOU-demy is intend
 
  * Backend
    * Database: PostgreSQL
-   * Data models, controllers, and routing: Ruby on Rails
+   * Data models, controllers, and routing: Ruby/2.5.7 on Rails/5.2
    * Authentication: BCrypt
   
  * Frontend
@@ -42,3 +42,6 @@ YOU-demy is a web application for learning inspired by Udemy. YOU-demy is intend
  * Expand search to match additional fields of courses (instructor, description, subtitle).
  * Implement fuzzy-matching on searches to provide results for typos.
  * Bookmark feature to let users save courses for the future.
+ * User profile
+ * Payment gateway
+ 

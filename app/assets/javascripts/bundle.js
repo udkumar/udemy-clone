@@ -1365,7 +1365,7 @@ function (_React$Component) {
         style: {
           textAlign: "center"
         }
-      }, "$", this.renderPrice()), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+      }, "\u20B9 ", this.renderPrice()), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
         className: "back-home-button",
         onClick: function onClick() {
           return _this2.props.history.push("/");
@@ -3210,7 +3210,7 @@ function (_React$Component) {
         }
       }, "(", this.props.course.rating_count, ")")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "index-card-price"
-      }, "$", this.renderPrice())));
+      }, "\u20B9 ", this.renderPrice())));
     }
   }]);
 
