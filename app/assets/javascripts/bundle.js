@@ -3529,15 +3529,7 @@ function (_React$Component) {
         className: "link-disabled",
         href: "",
         disabled: true
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("b", null, "YOUdemy for Business"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        className: "link-disabled",
-        href: "",
-        disabled: true
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("b", null, "Teach on YOUdemy"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        className: "link-disabled",
-        href: "",
-        disabled: true
-      }, "YOUdemy app")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("b", null, "Teach on PairClass"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         className: "link-disabled",
         href: "",
         disabled: true
@@ -3565,6 +3557,18 @@ function (_React$Component) {
         className: "link-disabled",
         href: "",
         disabled: true
+      }, "Featured courses")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+        className: "link-disabled",
+        href: "",
+        disabled: true
+      }, "Affiliate")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+        className: "link-disabled",
+        href: "",
+        disabled: true
+      }, "Sitemap")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+        className: "link-disabled",
+        href: "",
+        disabled: true
       }, "Featured courses")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "footer-bottom"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -3574,7 +3578,7 @@ function (_React$Component) {
         onClick: this.backToHome
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
         className: "footer-text"
-      }, "Copyright \xA9 2020 YOUdemy, Inc.")));
+      }, "Copyright \xA9 2020 PairClass.")));
     }
   }]);
 

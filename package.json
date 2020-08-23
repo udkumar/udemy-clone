@@ -1,5 +1,5 @@
 {
-  "name": "udemy_clone",
+  "name": "PairClass",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.1.2",

@@ -8,59 +8,64 @@ class Footer extends React.Component {
                     <ul className="links-box ">
                         <li>
                             <a className="link-disabled" href="" disabled>
-                                <b>YOUdemy for Business</b>
-                                </a>
-                        </li>
-                        <li>
-                            <a className="link-disabled" href="" disabled>
-                                <b>Teach on YOUdemy</b>
-                                </a>
-                        </li>
-                        <li>
-                            <a className="link-disabled" href="" disabled>
-                                YOUdemy app
-                                </a>
+                                <b>Teach on PairClass</b>
+                            </a>
                         </li>
                         <li>
                             <a className="link-disabled" href="" disabled>
                                 About us
-                                </a>
+                            </a>
                         </li>
                         <li>
                             <a className="link-disabled" href="" disabled>
                                 Careers
-                                </a>
+                            </a>
                         </li>
                         <li>
                             <a className="link-disabled" href="" disabled>
                                 Blog
-                                </a>
+                            </a>
                         </li>
                         <li>
                             <a className="link-disabled" href="" disabled>
                                 Help and Support
-                                </a>
+                            </a>
                         </li>
                         <li>
                             <a className="link-disabled" href="" disabled>
                                 Affiliate
-                                </a>
+                            </a>
                         </li>
                         <li>
                             <a className="link-disabled" href="" disabled>
                                 Sitemap
-                                </a>
+                            </a>
                         </li>
                         <li>
                             <a className="link-disabled" href="" disabled>
                                 Featured courses
-                                </a>
+                            </a>
+                        </li>
+                         <li>
+                            <a className="link-disabled" href="" disabled>
+                                Affiliate
+                            </a>
+                        </li>
+                        <li>
+                            <a className="link-disabled" href="" disabled>
+                                Sitemap
+                            </a>
+                        </li>
+                        <li>
+                            <a className="link-disabled" href="" disabled>
+                                Featured courses
+                            </a>
                         </li>
                     </ul>
                 </div>
                 <div className="footer-bottom">
                     <img src={window.youdemy_logo} width="110" height="50" onClick={this.backToHome} />
-                    <span className="footer-text">Copyright © 2020 YOUdemy, Inc.</span>
+                    <span className="footer-text">Copyright © 2020 PairClass.</span>
                 </div>
             </div>
         )
